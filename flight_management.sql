@@ -1,6 +1,6 @@
--- Entity Diagram --
+-- Entity Diagram 
 link: https://lucid.app/lucidchart/6ad9ba24-98a4-47a4-9038-1317580d6c4b/edit?viewport_loc=-11%2C-35%2C1480%2C649%2C0_0&invitationId=inv_1773f371-ccbb-40ac-8da0-aae356b282f6
-
+--
 -- Prepare script to create table1 and table2 with primary key --
 create table flights(
   flight_no int(3) not null,
