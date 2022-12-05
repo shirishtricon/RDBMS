@@ -1,6 +1,9 @@
 # E-R Diagram
 ![image](https://user-images.githubusercontent.com/117354273/205587306-ecf3d4ee-c19b-49e9-9d81-c9c78b88ad9c.png)
 
+![image](https://user-images.githubusercontent.com/117354273/205602899-83dc8ff2-3ca7-41f6-88a9-c8511203a81b.png)
+
+
 ## Instructions
 0. Create Entity Diagram for table1 and table2 and share screenshot
 1. Prepare script to create table1 and table2 with primary key
